@@ -1,4 +1,4 @@
 ------------------- README ------------------
 
 
-Site para que eu praticar o que sei de frontend.
+Site para que eu fiz, para praticar o que sei de frontend.
